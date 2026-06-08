@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhenbang Peng"
-description              : "Direct Ph.D. student at Beihang University. Research interests: remote sensing image understanding, multimodal learning, adversarial robustness, and diffusion-based image editing."
+description              : "Direct Ph.D. student at Beihang University. Research interests: remote sensing image understanding, multimodal learning, adversarial robustness, and image editing."
 repository               : "Arknightpzb/zhenbangpeng.github.io"
 google_scholar_stats_use_cdn : true
 
