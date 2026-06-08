@@ -102,8 +102,8 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
 
 # Education
 
-- *Ph.D. student*, Navigation, Guidance, and Control, School of Astronautics, Beihang University, Beijing, China, 2024.09-present. Advisor: Prof. Zhenwei Shi.
-- *B.Eng.*, Pattern Recognition and Intelligent Systems, School of Astronautics, Beihang University, Beijing, China, 2020.09-2024.07. Ranked 1st among 41 students.
+- *Ph.D. student*, Navigation, Guidance, and Control, School of Astronautics, Beihang University, Beijing, China, 2024.09-present. Advisor: Prof. Zhenwei Shi and Prof. Zhengxia Zou.
+- *B.Eng.*, Pattern Recognition and Intelligent Systems, School of Astronautics, Beihang University, Beijing, China, 2020.09-2024.07. Ranked 2st among 41 students.
 
 # Honors and Awards
 
@@ -118,5 +118,5 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
 
 I am open to research discussions and collaboration in robust visual generation, adversarial robustness, and remote sensing image understanding.
 
-- Email: [20374343@buaa.edu.cn](mailto:20374343@buaa.edu.cn)
+- Email: [pengzhenbang@buaa.edu.cn](mailto:pengzhenbang@buaa.edu.cn)
 - GitHub: [Arknightpzb](https://github.com/Arknightpzb)
