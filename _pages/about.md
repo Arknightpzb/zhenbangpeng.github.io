@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,42 +17,82 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a master student at the [Learning, Vision and Remote Sensing Laboratory (LEVIR)](https://levir.buaa.edu.cn/) at Beihang University. My research interests include remote sensing image understanding, multimodal learning, adversarial robustness, and diffusion-based image editing.
 
+I am particularly interested in reliable visual generation and editing systems: how models interpret visual evidence, how adversarial perturbations affect this interpretation, and how representation-level constraints can improve robustness.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class="profile-links" markdown="1">
+[Google Scholar](https://scholar.google.com/citations?user=ijCq9e0AAAAJ&hl=zh-CN){: .btn .btn--primary}
+[GitHub](https://github.com/Arknightpzb){: .btn}
+[LEVIR Profile](https://levir.buaa.edu.cn/members/index.html){: .btn}
+[Email](mailto:20374343@buaa.edu.cn){: .btn}
+</div>
 
-# 📝 Publications 
+# News
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+- *2026.06*: This homepage is being updated for a public academic profile and GitHub Pages deployment.
+- *2025.01*: Our survey paper on physical adversarial attacks against visual deep learning models appeared in the *Journal of Image and Graphics*.
+- *2024.05*: Our TGRS paper on physical adversarial camouflage generation for optical remote sensing images was published.
+
+# Research Interests
+
+- Robust diffusion-based image editing and representation stability.
+- Physical and digital adversarial robustness for visual recognition and remote sensing systems.
+- Remote sensing image understanding, multimodal learning, and RGB-T salient object detection.
+- Deepfake image detection, localization, and visual media forensics.
+
+# Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/500x300.png' alt="remote sensing adversarial camouflage" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Physical Adversarial Camouflage Generation in Optical Remote Sensing Images](https://ieeexplore.ieee.org/document/10460320)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Wei Chen, Yongyuan Liang, **Zhenbang Peng**, Yueyang Wu, Junjie Yang, Qixiang Ye, Yanyun Qu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*IEEE Transactions on Geoscience and Remote Sensing*, 2024.
+
+- Studies physical adversarial camouflage generation for optical remote sensing images and evaluates robustness against remote sensing object detectors.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIG 2025</div><img src='images/500x300.png' alt="adversarial robustness survey" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[Review of physical adversarial attacks against visual deep learning models](https://www.cjig.cn/en/article/doi/10.11834/jig.240442/)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Zhenbang Peng**, Wei Chen, Zhen Li, Bin Zeng
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+*Journal of Image and Graphics*, 2025.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Surveys physical adversarial attacks against visual deep learning models and discusses attack settings, evaluation, and future research directions.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing</div><img src='images/500x300.png' alt="rgb-t salient object detection" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cross-Modal Guidance Distillation Network with Transformer for RGB-T Salient Object Detection](https://www.mdpi.com/2072-4292/15/16/3979)
+
+**Zhenbang Peng**, Wei Chen, Yunpeng Xiao, Li Sun, Xiaojun Wu, Zhun Fan
+
+*Remote Sensing*, 2023.
+
+- Explores transformer-based cross-modal guidance distillation for RGB-T salient object detection.
+</div>
+</div>
+
+More publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=ijCq9e0AAAAJ&hl=zh-CN).
+
+# Education
+
+- *M.S.*, Beihang University, LEVIR Lab, Beijing, China.
+
+# Contact
+
+I am open to research discussions and collaboration in robust visual generation, adversarial robustness, and remote sensing image understanding.
+
+- Email: [20374343@buaa.edu.cn](mailto:20374343@buaa.edu.cn)
+- GitHub: [Arknightpzb](https://github.com/Arknightpzb)
