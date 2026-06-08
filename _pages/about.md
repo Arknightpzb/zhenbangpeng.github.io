@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am a master student at the [Learning, Vision and Remote Sensing Laboratory (LEVIR)](https://levir.buaa.edu.cn/) at Beihang University. My research interests include remote sensing image understanding, multimodal learning, adversarial robustness, and diffusion-based image editing.
+I am a direct Ph.D. student in Navigation, Guidance, and Control at the School of Astronautics, Beihang University, advised by Prof. Zhenwei Shi. I received my B.Eng. degree in Pattern Recognition and Intelligent Systems from Beihang University in 2024, ranking 2st among 41 students.
 
 I am particularly interested in reliable visual generation and editing systems: how models interpret visual evidence, how adversarial perturbations affect this interpretation, and how representation-level constraints can improve robustness.
 
@@ -32,9 +32,9 @@ I am particularly interested in reliable visual generation and editing systems: 
 
 # News
 
-- *2026.06*: This homepage is being updated for a public academic profile and GitHub Pages deployment.
-- *2025.01*: Our survey paper on physical adversarial attacks against visual deep learning models appeared in the *Journal of Image and Graphics*.
-- *2024.05*: Our TGRS paper on physical adversarial camouflage generation for optical remote sensing images was published.
+- *2026*: Our paper on infrared small target detection appeared in *Optics & Laser Technology*.
+- *2025*: Our physical adversarial camouflage paper appeared in *IEEE Transactions on Information Forensics and Security*.
+- *2025*: Our survey paper on physical adversarial attacks received the Excellent Paper Award from the *Journal of Image and Graphics*.
 
 # Research Interests
 
@@ -45,42 +45,56 @@ I am particularly interested in reliable visual generation and editing systems: 
 
 # Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/500x300.png' alt="remote sensing adversarial camouflage" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OLT 2026</div><img src='images/2026-OLT.jpg' alt="infrared small target detection" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Physical Adversarial Camouflage Generation in Optical Remote Sensing Images](https://ieeexplore.ieee.org/document/10460320)
+[Thermal radiance-inspired network for infrared small target detection](https://www.sciencedirect.com/science/article/pii/S0030399225022029)
 
-Wei Chen, Yongyuan Liang, **Zhenbang Peng**, Yueyang Wu, Junjie Yang, Qixiang Ye, Yanyun Qu
+Heng Sun, Yitong An, **Zhenbang Peng**, Xiangzhi Bai
 
-*IEEE Transactions on Geoscience and Remote Sensing*, 2024.
+*Optics & Laser Technology*, 2026, 198: 114611.
 
-- Studies physical adversarial camouflage generation for optical remote sensing images and evaluates robustness against remote sensing object detectors.
+- Proposes a thermal-radiance-inspired network for infrared small target detection by modeling imaging cues that help distinguish small targets from complex infrared backgrounds.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIG 2025</div><img src='images/500x300.png' alt="adversarial robustness survey" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/2025-TIFS.jpg' alt="remote sensing adversarial camouflage" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Physical Adversarial Camouflage Generation in Optical Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/11045780)
+
+**Zhenbang Peng**, Jianqi Chen, Zhenwei Shi, Zhengxia Zou
+
+*IEEE Transactions on Information Forensics and Security*, 2025, 20: 6308-6323.
+
+- Studies physical adversarial camouflage generation for optical remote sensing images and evaluates how physically realizable patterns affect remote sensing object detectors.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIG 2025</div><img src='images/2024-JIG.jpg' alt="adversarial robustness survey" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Review of physical adversarial attacks against visual deep learning models](https://www.cjig.cn/en/article/doi/10.11834/jig.240442/)
 
-**Zhenbang Peng**, Wei Chen, Zhen Li, Bin Zeng
+**Zhenbang Peng**, Yu Zhang, Yi Dang, Jianqi Chen, Zhenwei Shi, Zhengxia Zou
 
-*Journal of Image and Graphics*, 2025.
+*Journal of Image and Graphics*, 2025, 30(6): 2082-2119.
 
-- Surveys physical adversarial attacks against visual deep learning models and discusses attack settings, evaluation, and future research directions.
+- Surveys physical adversarial attacks against visual deep learning models, including physical attack principles, representative methods, application scenarios, and future research directions.
+- **Excellent Paper Award**, *Journal of Image and Graphics*.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing</div><img src='images/500x300.png' alt="rgb-t salient object detection" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/2024-TGRS.jpg' alt="aerial object detection adversarial texture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cross-Modal Guidance Distillation Network with Transformer for RGB-T Salient Object Detection](https://www.mdpi.com/2072-4292/15/16/3979)
+[Physical Adversarial Attacks Against Aerial Object Detection With Feature-Aligned Expandable Textures](https://ieeexplore.ieee.org/abstract/document/10596063)
 
-**Zhenbang Peng**, Wei Chen, Yunpeng Xiao, Li Sun, Xiaojun Wu, Zhun Fan
+Yu Zhang, Jianqi Chen, **Zhenbang Peng**, Yi Dang, Zhenwei Shi, Zhengxia Zou
 
-*Remote Sensing*, 2023.
+*IEEE Transactions on Geoscience and Remote Sensing*, 2024, 62: 1-15.
 
-- Explores transformer-based cross-modal guidance distillation for RGB-T salient object detection.
+- Develops feature-aligned expandable textures for physical adversarial attacks against aerial object detection systems.
 </div>
 </div>
 
@@ -88,7 +102,17 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
 
 # Education
 
-- *M.S.*, Beihang University, LEVIR Lab, Beijing, China.
+- *Ph.D. student*, Navigation, Guidance, and Control, School of Astronautics, Beihang University, Beijing, China, 2024.09-present. Advisor: Prof. Zhenwei Shi.
+- *B.Eng.*, Pattern Recognition and Intelligent Systems, School of Astronautics, Beihang University, Beijing, China, 2020.09-2024.07. Ranked 1st among 41 students.
+
+# Honors and Awards
+
+- Shen Yuan Medal, the highest undergraduate honor at Beihang University, awarded to 10 students university-wide, 2024.
+- Beijing Outstanding Graduate and Beihang Outstanding Graduate, 2024.
+- Baosteel Education Award, Student Award, awarded to 5 students at Beihang University, 2023.
+- National Scholarship, 2021 and 2022.
+- Doctoral Freshman Scholarship, Second-Class Academic Scholarship, and university-level Merit Student honors at Beihang University.
+- Multiple undergraduate honors and scholarships, including Special-Class Academic Excellence Scholarship, Special-Class Discipline Competition Scholarship, Excellent Student, Excellent Student Cadre, and Excellent League Member.
 
 # Contact
 

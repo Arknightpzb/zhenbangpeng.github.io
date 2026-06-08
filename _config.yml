@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhenbang Peng"
-description              : "Master student at LEVIR Lab, Beihang University. Research interests: remote sensing image understanding, multimodal learning, adversarial robustness, and diffusion-based image editing."
+description              : "Direct Ph.D. student at Beihang University. Research interests: remote sensing image understanding, multimodal learning, adversarial robustness, and diffusion-based image editing."
 repository               : "Arknightpzb/zhenbangpeng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhenbang Peng"
   avatar           : "https://levir.buaa.edu.cn/static/img/members/zhenbang_peng.png"
-  bio              : "Master Student, LEVIR Lab"
+  bio              : "Direct Ph.D. Student, Beihang University"
   location         : "Beijing, China"
   employer         : "Beihang University"
   pubmed           : 
