@@ -32,10 +32,10 @@ I am particularly interested in reliable visual generation and editing systems: 
 
 # News
 
-- *2026*: Our paper on infrared small target detection appeared in *Optics & Laser Technology*.
-- *2025*: Our physical adversarial camouflage paper appeared in *IEEE Transactions on Information Forensics and Security*.
+- *2026*: Our paper on infrared small target detection appeared in *Optics & Laser Technology $\color{red}{IF=5.0}$* .
+- *2025*: Our physical adversarial camouflage paper appeared in *IEEE Transactions on Information Forensics and Security $\color{red}{IF=8.0}$*.
 - *2025*: Our survey paper on physical adversarial attacks received the *Excellent Paper Award* from the Journal of Image and Graphics (中国图象图形学报优秀论文奖).
-- *2024*: Our adversarial attacks against aerial object detection paper appeared in *IEEE Transactions on Geoscience and Remote Sensing*.
+- *2024*: Our adversarial attacks against aerial object detection paper appeared in *IEEE Transactions on Geoscience and Remote Sensing $\color{red}{IF=8.6}$*.
 
 # Research Interests
 
