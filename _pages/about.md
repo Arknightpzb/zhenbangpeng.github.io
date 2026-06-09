@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am a direct Ph.D. student in Navigation, Guidance, and Control at the School of Astronautics, Beihang University, advised by Prof. Zhenwei Shi and Prof. Zhengxia Zou. I received my B.S. degree in Aircraft Control and Information Engineering from Beihang University in 2024, ranking 2nd among 41 students.
+I am a direct Ph.D. student in Control Science and Engineering at the School of Astronautics, Beihang University, advised by Prof. Zhenwei Shi and Prof. Zhengxia Zou. I received my B.S. degree in Aircraft Control and Information Engineering from Beihang University in 2024, ranking 2nd among 41 students.
 
 I am particularly interested in reliable visual generation and editing systems: how models interpret visual evidence, how adversarial perturbations affect this interpretation, and how representation-level constraints can improve robustness.
 
@@ -103,7 +103,7 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
 
 # Education
 
-- *Ph.D. student*, Navigation, Guidance, and Control, School of Astronautics, Beihang University, Beijing, China, 2024.09-present. Advisor: Prof. Zhenwei Shi and Prof. Zhengxia Zou.
+- *Ph.D. student*, Control Science and Engineering, School of Astronautics, Beihang University, Beijing, China, 2024.09-present. Advisor: Prof. Zhenwei Shi and Prof. Zhengxia Zou.
 - *B.S.*, Aircraft Control and Information Engineering, School of Astronautics, Beihang University, Beijing, China, 2020.09-2024.07. Ranked 2nd among 41 students.
 
 # Honors and Awards
