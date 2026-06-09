@@ -27,14 +27,15 @@ I am particularly interested in reliable visual generation and editing systems: 
 [Google Scholar](https://scholar.google.com/citations?user=ijCq9e0AAAAJ&hl=zh-CN){: .btn .btn--primary}
 [GitHub](https://github.com/Arknightpzb){: .btn}
 [LEVIR Profile](https://levir.buaa.edu.cn/members/index.html){: .btn}
-[Email](mailto:20374343@buaa.edu.cn){: .btn}
+[Email](mailto:pengzhenbang@buaa.edu.cn){: .btn}
 </div>
 
 # News
 
 - *2026*: Our paper on infrared small target detection appeared in *Optics & Laser Technology*.
 - *2025*: Our physical adversarial camouflage paper appeared in *IEEE Transactions on Information Forensics and Security*.
-- *2025*: Our survey paper on physical adversarial attacks received the Excellent Paper Award from the *Journal of Image and Graphics*.
+- *2025*: Our survey paper on physical adversarial attacks received the *Excellent Paper Award* from the Journal of Image and Graphics (中国图象图形学报优秀论文奖).
+- *2024*: Our adversarial attacks against aerial object detection paper appeared in *IEEE Transactions on Geoscience and Remote Sensing*.
 
 # Research Interests
 
@@ -107,9 +108,9 @@ More publications can be found on my [Google Scholar profile](https://scholar.go
 
 # Honors and Awards
 
-- Shen Yuan Medal, the highest undergraduate honor at Beihang University, awarded to 10 students university-wide, 2024.
 - Beijing Outstanding Graduate and Beihang Outstanding Graduate, 2024.
-- Baosteel Education Award, Student Award, awarded to 5 students at Beihang University, 2023.
+- Shen Yuan Medal, the highest undergraduate honor at Beihang University, awarded to 10 students university-wide, 2023.
+- Bao Gang Education Award, Student Award, awarded to 5 students at Beihang University, 2023.
 - National Scholarship, 2021 and 2022.
 - Doctoral Freshman Scholarship, Second-Class Academic Scholarship, and university-level Merit Student honors at Beihang University.
 - Multiple undergraduate honors and scholarships, including Special-Class Academic Excellence Scholarship, Special-Class Discipline Competition Scholarship, Excellent Student, Excellent Student Cadre, and Excellent League Member.
